@@ -175,10 +175,11 @@ body{ font-family: "Libertinus Serif" , "Zen Old Mincho", "serif";
                 align-items: center;
             };
             p{
-                font-size: 25px;
+                font-size: 22px;
                 font-weight: 300;
                 @media(width >= 700px){
                     margin-left: 20px;
+                    font-size: 25px;
                 };
             }
             h1{
@@ -752,6 +753,7 @@ body{ font-family: "Libertinus Serif" , "Zen Old Mincho", "serif";
                 @media(width <=900px){
                     bottom: -60px;
                     margin: 20px 10px 15px;
+                    line-height: 1.5;
                 }
                 a:hover{
                     color: blue;
