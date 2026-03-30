@@ -753,7 +753,7 @@ body{ font-family: "Libertinus Serif" , "Zen Old Mincho", "serif";
                 @media(width <=900px){
                     bottom: -60px;
                     margin: 20px 10px 15px;
-                    line-height: 1.5;
+                    letter-spacing: -0.1em;
                 }
                 a:hover{
                     color: blue;
